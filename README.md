@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 Patrick here!
+
+- 🔭 I’m currently working on a huge gaming network with other awesome people
 
 <!--
 **pthoelken/pthoelken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
