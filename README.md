@@ -9,10 +9,6 @@ Howdy. Nice to meet you on my own github page in the whole internet. My name is,
 
 - ⚡ Fun fact: I'm not a robot. I swear!
 
-
-**[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pthoelken&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)**
-[![Top Lang](https://github-readme-stats.vercel.app/api?username=pthoelken&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **pthoelken/pthoelken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
