@@ -1,6 +1,13 @@
 ### Hi there 👋 Patrick here!
 
+Howdy. Nice to meet you on my own github page in the whole internet. My name is, as you already see, Patrick Thoelken. I’m a Software Engineer, IT Specialist, Photographer and Security Penetration Tester from Germany. My hometown is all over the world. If you have any questions for IT, Pictures, Software Development or Security, don’t hesitate to contact me.
+
 - 🔭 I’m currently working on a huge gaming network with other awesome people
+- 🤔 I’m looking for help with hands on mentality
+
+- 📫 How to reach me: me@pthoelken.de
+
+- ⚡ Fun fact: I'm not a robot. I swear!
 
 <!--
 **pthoelken/pthoelken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
