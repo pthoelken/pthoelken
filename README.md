@@ -2,6 +2,10 @@
 
 Howdy. Nice to meet you on my own github page in the whole internet. My name is, as you already see, Patrick Thoelken. I’m a Software Engineer, IT Specialist, Photographer and Security Penetration Tester from Germany. My hometown is all over the world. If you have any questions for IT, Pictures, Software Development or Security, don’t hesitate to contact me.
 
+<p align="center">
+	<img src="https://raw.githubusercontent.com/pthoelken/pthoelken/main/Stones.png">
+</p>
+
 - 🔭 Currently I'm working on a bunch of code for a resource planning software in virtualization technologies (.net Core)
 - 🥳 I’m looking for help with hands on mentality
 
