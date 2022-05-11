@@ -7,10 +7,8 @@ Howdy. Nice to meet you on my own github page in the whole internet. My name is,
 </p>
 
 - 🔭 Currently I'm working on a bunch of code for a resource planning software in virtualization technologies (.net Core)
-- 🥳 I’m looking for help with hands on mentality
-
+- 🥳 I’m looking for people with hands on mentality
 - 📫 How to reach me: me@pthoelken.de
-
 - ⚡ Fun fact: I'm not a robot. I swear!
 
 <!--
