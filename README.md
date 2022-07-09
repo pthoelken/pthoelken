@@ -6,9 +6,7 @@ Software Engineer, Security Clouder, IT Specialist and Photographer
 
 Howdy. Nice to meet you on my own github page in the whole internet. My name is, as you already see, Patrick Thoelken. I’m a Software Engineer, IT Specialist, Photographer and Security Penetration Tester from Germany. My hometown is all over the world. If you have any questions for IT, Pictures, Software Development or Security, don’t hesitate to contact me.
 
-<p align="center">
-	<img src="https://i0.wp.com/patrick-thoelken.de/wp-content/uploads/2022/05/PT_1496-Bearbeitet-min.png">
-</p>
+![airplane-github](https://user-images.githubusercontent.com/12643853/178122794-a4057c32-e527-4bdf-bdfa-fcdf446f402a.png)
 
 * 🌍  I'm based in all over the World
 * 🖥️  See my portfolio at [https://patrick-thoelken.de](http://patrick-thoelken.de)
