@@ -9,11 +9,12 @@ Howdy. Nice to meet you on my own github page in the whole internet. My name is,
 ![airplane-github](https://user-images.githubusercontent.com/12643853/178122794-a4057c32-e527-4bdf-bdfa-fcdf446f402a.png)
 
 * 🌍  I'm based in all over the World
-* 🖥️  See my portfolio at [https://patrick-thoelken.de](http://patrick-thoelken.de)
+* 📸  See my photography portfolio at [https://patrick-thoelken.de](http://patrick-thoelken.de)
 * ✉️  You can contact me at [me@pthoelken.de](mailto:me@pthoelken.de)
 * 🚀  I'm currently working on [Awesome Apps](http://github.com/pthoelken?tab=repositories)
 * 🧠  I'm learning more Cloud Development
-* 🤝  I'm open to collaborating on I’m looking for people with hands on mentality
+* 🛫  Working for a huge airline
+* 🤝  I’m looking for people with hands on mentality
 * ⚡  Fun fact: I'm not a robot. I swear!
 
 <a href="https://www.github.com/pthoelken" target="_blank" rel="noreferrer"><img
