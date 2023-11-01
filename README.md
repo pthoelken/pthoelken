@@ -58,7 +58,4 @@ src="https://img.shields.io/github/followers/pthoelken?logo=github&style=for-the
 <a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" alt="Polygon" /></a>
 </p>
 
-### STATS
-
-<a href="http://www.github.com/pthoelken"><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=pthoelken&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
