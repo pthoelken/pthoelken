@@ -1,8 +1,8 @@
 Hi 👋 My name is Patrick Thoelken
 ========================================================================================================================================
 
-Software Engineer, Security Clouder, IT Specialist and Photographer
--------------------------------------------------------------------
+Software Engineer, Security Clouder, IT Specialist and DevOps Engineer
+------------------------------------------------------------------------
 
 Howdy. Nice to meet you on my own github page in the whole internet. My name is, as you already see, Patrick Thoelken. I’m a Software Engineer, IT Specialist, Photographer and Security Penetration Tester from Germany. My hometown is all over the world. If you have any questions for IT, Pictures, Software Development or Security, don’t hesitate to contact me.
 
@@ -17,10 +17,7 @@ Howdy. Nice to meet you on my own github page in the whole internet. My name is,
 * 🤝  I’m looking for people with hands on mentality
 * ⚡  Fun fact: I'm not a robot. I swear!
 
-<a href="https://www.github.com/pthoelken" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/pthoelken?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-### SKILLS
+***
 
 <p align="center">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
